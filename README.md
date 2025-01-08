@@ -151,7 +151,7 @@ General purpose
 
 ### Description
 - A no-code platform
-- Process:
+- Process: 
 	- Assigning a goal to the agent
 	- Witnessing its thinking process
 	- Formulation of an execution plan
